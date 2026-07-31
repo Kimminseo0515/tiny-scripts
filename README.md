@@ -1,0 +1,2 @@
+# tiny-scripts
+nextjs project
